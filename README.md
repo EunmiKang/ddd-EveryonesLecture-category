@@ -1,7 +1,7 @@
 # ddd-Everyone's Lecture
 
 ## GitPod 접속
-https://gitpod.io/#https://github.com/msa-school/ddd-petstore-level9-bounded-multi-model
+https://gitpod.io/#https://github.com/EunmiKang/ddd-EveryonesLecture-category
 
 - 접속 후 "Terminal > Terminal열기"
 
